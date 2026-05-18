@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luchomiranda123.github.io/demo-anthoaris/sitemap.xml
